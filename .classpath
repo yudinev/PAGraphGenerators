@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/colt.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/ecj-3.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/j3dcore.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/j3dutils.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jai_codec.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/javassist-3.7.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/javolution-3.7.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jcommon-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jfreechart-1.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jfreechart-1.0.3-experimental.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jung-algorithms-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jung-api-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jung-graph-impl-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jung-io-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jung-jai-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/jung-visualization-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/!Данные с ноута/workspacejdk8/simbigraph/lib/vecmath.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
